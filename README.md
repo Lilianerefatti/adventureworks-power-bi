@@ -1,6 +1,8 @@
 # AdventureWorks | Análise comercial no Power BI
 
-Projeto de portfólio de **Liliane Rose Refatti** sobre vendas no canal de revendedores da AdventureWorks. O relatório reúne volume de vendas, rentabilidade, concentração por revendedor e acompanhamento de metas trimestrais.
+O relatório interativo em Power BI a seguir analisa as vendas do canal de revendedores da AdventureWorks. O painel mostra onde as vendas se concentram, quais produtos mais influenciam o resultado bruto e como cada vendedor se saiu em relação às metas trimestrais.
+
+Projeto de portfólio desenvolvido por Liliane Rose Refatti.
 
 ![Visão Geral do relatório em 2012: 1.277 pedidos, 81.328 unidades, evolução mensal e distribuição geográfica](imagens/01-visao-geral-2012.png)
 
@@ -45,4 +47,3 @@ Para atualizar os dados em outro computador, extraia os arquivos da fonte origin
 
 As vendas de 2013 estão registradas até **29 de novembro**. Os totais desse recorte devem ser lidos como valores do período disponível. Os valores monetários seguem a escala da base original, sem conversão para reais. O resultado bruto mede vendas menos custo dos produtos; ele não representa lucro líquido nem estima como a demanda mudaria sem descontos.
 
-<!-- Depois da publicação do vídeo, acrescente aqui um link para a demonstração. -->
