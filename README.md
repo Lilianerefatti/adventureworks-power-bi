@@ -6,6 +6,8 @@ Projeto de portfólio desenvolvido por **Liliane Rose Refatti**.
 
 📊 **[Explorar o relatório interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmU5ZDllYmItMmJlOS00ZjIzLTg4OGMtMmRhNWMwNzAzZjhiIiwidCI6IjYwMjcxMGYzLTAyNGYtNGQ2YS1hZDQ4LTM3OTkwZTU4MzUwMCJ9)** · Acesso sem login.
 
+🎬 **[Assistir à demonstração no LinkedIn](https://lnkd.in/p/dkDdkCrG)**
+
 ![Visão Geral do relatório em 2012: 1.277 pedidos, 81.328 unidades, evolução mensal e distribuição geográfica](imagens/01-visao-geral-2012.png)
 
 ## 🎯 Perguntas de negócio
